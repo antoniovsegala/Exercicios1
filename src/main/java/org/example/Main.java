@@ -13,5 +13,7 @@ public class Main {
         y = sc.nextInt();
         soma = x + y;
         System.out.printf("O resultado da soma é " + soma);
+
+        sc.close();
         }
     }
